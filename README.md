@@ -1,4 +1,4 @@
-# Childcare-Costs-and-Economic-A-Resource-for-Parents-Guardians-and-Child-Care-Providers using Tableau
+# Tableau Dashboard - Childcare prices across United States
 
 This interactive Tableau dashboard provides a visual analysis of **child care prices across different states in the United States**. The goal of the project is to identify cost patterns, highlight regional disparities, and support policymakers, researchers, and parents with data-driven insights on child care affordability.
 
